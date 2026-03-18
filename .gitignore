@@ -6,6 +6,7 @@
 **/[Bb]uilds/
 **/[Ll]ogs/
 **/UserSettings/
+.vscode/
 **/.vscode/
 
 # Fichiers de projet Visual Studio / JetBrains Rider
