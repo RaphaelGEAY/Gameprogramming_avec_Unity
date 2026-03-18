@@ -1,0 +1,36 @@
+# On ignore les dossiers Library, Temp, etc., peu importe où ils sont
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/UserSettings/
+
+# Fichiers de projet Visual Studio / JetBrains Rider
+.vs/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Fichiers de métadonnées Unity (Optionnel mais recommandé de garder .meta)
+# On ne cache JAMAIS les fichiers .meta car ils lient vos assets entre eux.
+
+# Crashlytics
+crashlytics-build.properties
+
+# OS spécifiques
+.DS_Store
+Thumbs.db
